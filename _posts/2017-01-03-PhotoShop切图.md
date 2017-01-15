@@ -6,8 +6,9 @@ description: 网易前端位专业 - 页面制作 - PhotoShop切图。
 keywords: 页面制作,PhotoShop,切图
 ---
 
-### 为什么要切图？主要是给网页提供素材
-> 注意： .. 用法 ， sprite 用法 
+### 为什么要切图？
+主要是给网页提供素材
+> 注意： .. 两个点号用法 ， sprite 用法 
 
 - HTML:img
 
@@ -22,6 +23,7 @@ keywords: 页面制作,PhotoShop,切图
 		background-position: 0 0;
 	}	
 ```
+
 ### PS工具初步   
 一,介绍  
 1.首选项 设置像素模式。  
